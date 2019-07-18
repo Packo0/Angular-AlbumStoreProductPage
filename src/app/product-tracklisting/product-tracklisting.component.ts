@@ -5,7 +5,7 @@ import { ProductService } from '../product.service';
 
 @Component({
   selector: 'app-product-tracklisting',
-  templateUrl: './product-trackinglist.component.html',
+  templateUrl: './product-tracklisting.component.html',
   styleUrls: ['./product-tracklisting.component.css']
 })
 export class ProductTracklistingComponent implements OnInit {
